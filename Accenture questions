@@ -1,12 +1,29 @@
-types of joins in teradata
+types of joins in teradata:
 http://www.teradatahelp.com/2010/11/types-of-teradata-joins.html
 
-DBC tables
+DBC tables:
+
 http://www.info.teradata.com/htmlpubs/DB_TTU_14_00/index.html#page/SQL_Reference/B035_1184_111A/Alter_Function-Details.008.164.html
-
-
+http://www.teradatahelp.com/2010/11/list-of-useful-data-dictionary-views.html
 
 Teradata in-built functions:
 
 https://www.tutorialspoint.com/teradata/teradata_built_in_functions.htm
+https://www.tutorialspoint.com/teradata/teradata_date_time_functions.htm
+
+Teradata 15 features:
+
+http://www.teradatawiki.net/2014/12/Teradata-15-features.html
+http://www.teradata.com/Resources/Videos/Teradata-Database-15/
+
+
+Performance management:
+
+i) http://www.info.teradata.com/htmlpubs/DB_TTU_14_00/index.html#page/Database_Management/B035_1093_111A/appc.038.02.html#ww12275587
+ii) skewed table management: 
+    http://www.info.teradata.com/htmlpubs/DB_TTU_14_00/index.html#page/Database_Management/B035_1093_111A/appc.038.29.html#ww17588709
+iii) query log cleansing:  http://www.info.teradata.com/htmlpubs/DB_TTU_14_00/index.html#page/Database_Management/B035_1093_111A/appc.038.81.html
+iv)   memory management: http://www.info.teradata.com/htmlpubs/DB_TTU_14_00/index.html#page/Database_Management/B035_1093_111A/appc.038.60.html
+v) http://www.info.teradata.com/htmlpubs/DB_TTU_14_00/index.html#page/Database_Management/B035_1093_111A/appc.038.51.html
+
 
